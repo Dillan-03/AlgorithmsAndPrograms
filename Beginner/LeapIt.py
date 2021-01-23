@@ -7,9 +7,9 @@ class Year:
         self.user = user
 
     def leapyear(self):
-        if self.user % 4 = 0 :
-            if self.user % 100:
-                if self.user % 400:
+        if self.user % 4 == 0 :
+            if self.user % 100 == 0:
+                if self.user % 400 == 0:
                     return True
                 else:
                     return False
