@@ -1,5 +1,3 @@
-#!/Users/Dillan/PersonalProgramming/Python/Project_Env/bin/python
-
 #Email Slicer
 
 #Gets the username and domain name from an email address
@@ -30,9 +28,10 @@ class Email:
         self.domain = "".join(self.domain)
         return "Domain Name --> "+self.domain
 
-
-email = "testing@email.com"
-x = Email(email)
+user = str
+user = str(input("Enter a email: "))
+# email = "testing@email.com"
+x = Email(user)
 
 x.slicinguser()
 x.slicingdomain()
