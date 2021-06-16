@@ -5,9 +5,8 @@ total = 0
 Fibonacci = [1,2]
 
 while Fibonacci[-1] < 4000000:
-     x = Fibonacci[-1])+Fibonacci[-2]
+     x = Fibonacci[-1]+Fibonacci[-2]
      Fibonacci.append(x)
-
 print(Fibonacci)
 
 for number in Fibonacci:
