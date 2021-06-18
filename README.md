@@ -1,6 +1,7 @@
-# Tasks-BIA
+# Python Development 
 
-An objective lists of Python Projects 
+An lists of Python Projects 
 
-Project_Env (venv)
-python3.9
+python 3.8.10
+visual studio code
+
