@@ -1,5 +1,3 @@
-#!/Users/Dillan/PersonalProgramming/Python/Project_Env/bin/python
-
 #To check if a year is a leap or not
 class Year:
 
