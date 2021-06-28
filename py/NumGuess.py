@@ -1,7 +1,4 @@
-#!/Users/Dillan/PersonalProgramming/Python/Project_Env/bin/python
-
-
-# Notion Number Guessing
+#  Number Guessing
 
 import random
 class Guess:
