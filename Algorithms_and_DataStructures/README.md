@@ -1,4 +1,4 @@
-# Collection of Algorihms and Data Structures
+# Collection of Algorithms and Data Structures
 
 ## Algorithms
 
