@@ -1,6 +1,6 @@
-#Collection of Algorihms and Data Structures
+# Collection of Algorihms and Data Structures
 
-##Algorithms
+## Algorithms
 
 ### Bubble Sort
 A Bubble sort is a simple sorting algorithms which works by repeatedly going through the list and comparing each pair of adjacent items and swapping them if they are in wrong order. 
