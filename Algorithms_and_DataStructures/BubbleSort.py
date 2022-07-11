@@ -13,8 +13,6 @@ def bubble_sort(numbers,length):
                 numbers[i] = temp
                 swapped = True
                 print(numbers)
-    # if swapped:
-        # print("Your sorted list:",numbers) 
 
 
 holder = []
