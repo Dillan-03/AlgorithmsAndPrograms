@@ -2,15 +2,17 @@
 import math
 
 holder = []
-def dectobin(x,holder):
+def dectobin(x):
+	# input decimal integer x 
+	# output binary representation
 
 	if x > 0:
-		holder.append(str((x%2)))
-		dectobin(math.floor(x/2),holder)
-	temp = holder[::-1]
-	return ''.join(temp)
+		dectobin(math.floor(x/2))
+		holder.append(x%2)
+	return ''.join(map(str, holder))
 
-var = dectobin(13,holder)
+var = dectobin(13)
 
 print(var)
-		
+
+
